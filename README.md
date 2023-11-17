@@ -1,2 +1,2 @@
-# Project-Todo-List
-HMTL, Bootstrap, JavaScript
+# Simple Todo List
+HMTL, CSS, Bootstrap, JavaScript
